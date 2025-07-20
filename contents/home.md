@@ -11,7 +11,7 @@ Email: dinggao.liu@fafu.edu.cn \
 
 
 ## Research Interests
-Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time Series Forecasting, etc...
+Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time Series Forecasting, etc.
 
 
 ## Links
