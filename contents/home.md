@@ -16,7 +16,7 @@ Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time
 ---
 
 ## Links
-<img src="/static/assets/icons/google‑scholar.png" alt="Google Scholar" style="width:1em;vertical-align:text-bottom;margin-right:0.3em;" class="link-icon" /> 
+<img src="/static/assets/icons/google_scholar.png" alt="Google Scholar" style="width:1em;vertical-align:text-bottom;margin-right:0.3em;" class="link-icon" /> 
 Google Scholar: \
 https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en  
 
