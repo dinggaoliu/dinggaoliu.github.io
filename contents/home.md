@@ -7,16 +7,19 @@ He is currently a Ph.D. Candidate in the College of Forestry at Fujian Agricultu
 ## Contact
 Email: dinggao.liu@fafu.edu.cn \
 &emsp;&emsp;&emsp;dinggaoliu@outlook.com (personal)
+
 ---
 
 ## Research Interests
 Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time Series Forecasting, etc.
+
 ---
 
 ## Links
 Google Scholar: https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en \
 Orcid: https://orcid.org/my-orcid?orcid=0000-0002-2618-4317 \
 LinkedIn: https://www.linkedin.com/in/dinggaoliu 
+
 ---
 
 ## Education
@@ -36,6 +39,7 @@ Sept. 2019 – June 2022.
 College of Agronomy \
 Hunan Agricultural University, Changsha China \
 Sept. 2015 – June 2019.
+
 ---
 
 ## Experience
