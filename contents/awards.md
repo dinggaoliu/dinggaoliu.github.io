@@ -1,16 +1,9 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- First-class graduate academic scholarship, Fujian Agriculture and Forestry University, 2024.
 
-- National Scholarship for Graduate Student, 2024.
+- Second-class graduate academic scholarship, Fujian Agriculture and Forestry University, 2022 & 2020.
 
-- First-Prize Scholarship (CUMT), 2024.
+- Outstanding graduates of Hunan Province, China, 2019.
 
-- First-Prize Scholarship (CUMT), 2023.
+- Second-class undergraduate excellent scholarship, Hunan Agricultural University, 2018.
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
