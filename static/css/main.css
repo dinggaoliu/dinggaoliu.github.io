@@ -108,7 +108,7 @@ section .main-body{
 
 @media screen and (max-width: 575px) {
     #avatar {
-        margin: 0;
+/*         margin: 0; */
         top: -120px !important;
     }
 }
