@@ -10,6 +10,16 @@ Email: dinggao.liu@fafu.edu.cn \
 &emsp;&emsp;&emsp;dinggaoliu@outlook.com (personal)
 
 
+## Research Interests
+Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time Series Forecasting, etc...
+
+
+## Links
+Google Scholar: https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en \
+Orcid: https://orcid.org/my-orcid?orcid=0000-0002-2618-4317 \
+LinkedIn: https://www.linkedin.com/in/dinggaoliu 
+
+
 ## Education
 **Pursing Ph.D. in Forest Management** \
 College of Forestry \
@@ -41,13 +51,5 @@ Central South University, Changsha China \
 Apr. 2018 – Sept. 2018
 
 
-## Research Interests
-Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time Series Forecasting, etc...
-
-
-## Links
-Google Scholar: https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en \
-Orcid: https://orcid.org/my-orcid?orcid=0000-0002-2618-4317 \
-LinkedIn: https://www.linkedin.com/in/dinggaoliu 
 
 
