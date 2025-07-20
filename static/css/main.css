@@ -106,10 +106,10 @@ section .main-body{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 575px) {
     #avatar {
         margin: 0;
-        top: -100px !important;
+        top: -120px !important;
     }
 }
 
