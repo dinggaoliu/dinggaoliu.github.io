@@ -146,11 +146,11 @@ a[href*="orcid.org"]::before {
 }
 
 /* 同理给 LinkedIn */
-a[href*="linkedin.org"] {
+a[href*="linkedin.com"] {
   position: relative;
   padding-left: 1.6em;
 }
-a[href*="linkedin.org"]::before {
+a[href*="linkedin.com"]::before {
   content: "";
   position: absolute;
   left: 0;
