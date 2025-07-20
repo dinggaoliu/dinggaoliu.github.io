@@ -113,4 +113,51 @@ section .main-body{
     }
 }
 
+/* 针对“指向 Google Scholar”的链接加图标 */
+a[href*="scholar.google.com"] {
+  position: relative;
+  padding-left: 1.6em;       /* 给文字留空间 */
+}
+a[href*="scholar.google.com"]::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1.2em;
+  height: 1.2em;
+  background: url("static/assets/icons/google‑scholar.png") no-repeat center/contain;
+}
+
+/* 同理给 Orcid */
+a[href*="orcid.org"] {
+  position: relative;
+  padding-left: 1.6em;
+}
+a[href*="orcid.org"]::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1.2em;
+  height: 1.2em;
+  background: url("static/assets/icons/orcid.png") no-repeat center/contain;
+}
+
+/* 同理给 LinkedIn */
+a[href*="linkedin.org"] {
+  position: relative;
+  padding-left: 1.6em;
+}
+a[href*="linkedin.org"]::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1.2em;
+  height: 1.2em;
+  background: url("static/assets/icons/linkedin.png") no-repeat center/contain;
+}
 
