@@ -16,9 +16,10 @@ Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time
 ---
 
 ## Links
-[Google Scholar](Google Scholar: https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en) \
-[Orcid](Orcid: https://orcid.org/my-orcid?orcid=0000-0002-2618-4317) \
-[LinkedIn](LinkedIn: https://www.linkedin.com/in/dinggaoliu)
+[Google Scholar](https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en)  
+[Orcid](https://orcid.org/0000-0002-2618-4317)  
+[LinkedIn](https://www.linkedin.com/in/dinggaoliu)
+
 
 ---
 
