@@ -16,22 +16,9 @@ Carbon Finance, Big Data Analytics, Deep Learning, Social Network Analysis, Time
 ---
 
 ## Links
-<a href="https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en" target="_blank">
-  <img src="/static/assets/icons/google-scholar.png" alt="Google Scholar" style="width:1em;vertical-align:text-bottom;margin-right:0.3em;">
-  Google Scholar: https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en
-</a>  
-<br />
-
-<a href="https://orcid.org/0000-0002-2618-4317" target="_blank">
-  <img src="/static/assets/icons/orcid.png" alt="Orcid" style="width:1em;vertical-align:text-bottom;margin-right:0.3em;">
-  Orcid: https://orcid.org/0000-0002-2618-4317
-</a>  
-<br />
-
-<a href="https://www.linkedin.com/in/dinggaoliu" target="_blank">
-  <img src="/static/assets/icons/linkedin.png" alt="LinkedIn" style="width:1em;vertical-align:text-bottom;margin-right:0.3em;">
-  LinkedIn: https://www.linkedin.com/in/dinggaoliu
-</a>
+<img src="/static/assets/icons/google‑scholar.png" alt="Google Scholar" class="link-icon" /> Google Scholar: https://scholar.google.com/citations?user=t7Oza1AAAAAJ&hl=en  
+<img src="/static/assets/icons/orcid.png"         alt="Orcid"          class="link-icon" /> Orcid: https://orcid.org/0000-0002-2618-4317  
+<img src="/static/assets/icons/linkedin.png"      alt="LinkedIn"       class="link-icon" /> LinkedIn: https://www.linkedin.com/in/dinggaoliu
 
 ---
 
