@@ -5,9 +5,9 @@
 
 
 ## Speaker for International Conferences
-- **The 45th International Symposium on Forecasting (ISF) 2025, Beijing, China**
+- **The 45th International Symposium on Forecasting (ISF) 2025, Beijing, China** \
   (Report in parallel sessions, MacroFor: Health and Environment)
-- **International Association for Applied Econometrics (IAAE) 2024 Annual Conference, Xiamen, China**
+- **International Association for Applied Econometrics (IAAE) 2024 Annual Conference, Xiamen, China** \
   (Report in parallel sessions, Forecasting II)
 
 
