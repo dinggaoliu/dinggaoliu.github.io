@@ -1,6 +1,6 @@
 ## Reviewer for Journals
 - Finance Research Letters, International Review of Financial Analysis,
-Carbon Balance and Management, The Journal of Supercomputing, Signal, Image and Video Processing
+Carbon Balance and Management, The Journal of Supercomputing, Signal, Image and Video Processing, 
 International Journal of Computational Intelligence Systems, Discover Sustainability
 
 
