@@ -3,6 +3,7 @@
 [![dinggaoliu](https://img.shields.io/badge/dinggaoliu-github-blue?logo=github)](https://github.com/dinggaoliu)
 
 He is currently a Ph.D. Candidate in the College of Forestry at Fujian Agriculture and Forestry University, Fuzhou China.
+Supervisor: Prof. Zhenpeng Tang (唐振鹏 教授), College of Economics and Management, Fujian Agriculture and Forestry University.
 
 ## Contact
 Email: dinggao.liu@fafu.edu.cn \
