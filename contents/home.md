@@ -39,7 +39,7 @@ Fujian Agriculture and Forestry University, Fuzhou China \
 Sept. 2023 – present.
 
 
-**M.Sc. in Bioengineering (Bioinformatics direction)** \
+**M.Eng. in Bioengineering (Bioinformatics direction)** \
 Center for Genomics and Biotechnology, Haixia Institute of Science and Technology and College of Life Sciences \
 Fujian Agriculture and Forestry University, Fuzhou China \
 Sept. 2019 – June 2022.
