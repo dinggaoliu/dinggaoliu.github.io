@@ -1,7 +1,10 @@
 ## Reviewer for Journals
-- Finance Research Letters, International Review of Financial Analysis, Humanities \& Social Sciences Communications, Carbon Balance and Management
-- Scientific Reports, Journal of Supercomputing, Signal, Image and Video Processing
-- International Journal of Data Science and Analytics, International Journal of Computational Intelligence Systems, Discover Sustainability
+- Finance & Economics: Finance Research Letters, International Review of Financial Analysis
+- Artificial Intelligence & Data Science: Artificial Intelligence Review, Cognitive Computation, IJ of Computational Intelligence Systems
+- Computer Science & Engineering: Journal of Supercomputing, Signal, Image and Video Processing
+- Sustainability & Interdisciplinary: Humanities & Social Sciences Communications, Discover Sustainability, Carbon Balance and Management
+- Multidisciplinary Science: Scientific Reports
+- 
 ---
 
 ## Speaker for International Conferences
