@@ -1,5 +1,5 @@
 ## Reviewer for Journals
-- **Finance & Economics**: Finance Research Letters, International Review of Financial Analysis, Carbon Balance and Management
+- **Finance, Economics & Management**: Finance Research Letters, International Review of Financial Analysis, Carbon Balance and Management
 - **Artificial Intelligence & Data Science**: Artificial Intelligence Review, Cognitive Computation, IJ of Computational Intelligence Systems
 - **Computer Science & Engineering**: Journal of Supercomputing, Signal, Image and Video Processing
 - **Sustainability & Interdisciplinary**: Humanities & Social Sciences Communications, Scientific Reports, Discover Sustainability
