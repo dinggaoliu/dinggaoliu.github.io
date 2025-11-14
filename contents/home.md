@@ -36,19 +36,24 @@ https://www.linkedin.com/in/dinggaoliu
 ## Education
 **Pursing Ph.D. in Forest Management** \
 College of Forestry \
-Fujian Agriculture and Forestry University, Fuzhou China \
+Fujian Agriculture and Forestry University, Fuzhou, China \
 Sept. 2023 – present.
+
+**Visiting Ph.D. Student (Joint Training Program)** \
+Faculty of Forestry \
+University of British Columbia, Vancouver, Canada \
+present – Janu. 2027.
 
 
 **M.Sc. in Bioengineering (Bioinformatics direction)** \
 Center for Genomics and Biotechnology, Haixia Institute of Science and Technology and College of Life Sciences \
-Fujian Agriculture and Forestry University, Fuzhou China \
+Fujian Agriculture and Forestry University, Fuzhou, China \
 Sept. 2019 – June 2022.
 
 
 **B.Sc. in Agriculture** \
 College of Agronomy \
-Hunan Agricultural University, Changsha China \
+Hunan Agricultural University, Changsha, China \
 Sept. 2015 – June 2019.
 
 ---
@@ -56,12 +61,12 @@ Sept. 2015 – June 2019.
 ## Experience
 **Research Assistant** \
 Center for Genomics and Biotechnology, Haixia Institute of Science and Technology \
-Fujian Agriculture and Forestry University, Fuzhou China \
+Fujian Agriculture and Forestry University, Fuzhou, China \
 June 2022 – Sept. 2023.
 
 **Intern** \
 School of Minerals Processing and Bioengineering \
-Central South University, Changsha China \
+Central South University, Changsha, China \
 Apr. 2018 – Sept. 2018
 
 
