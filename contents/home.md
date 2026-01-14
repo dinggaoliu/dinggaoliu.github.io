@@ -34,15 +34,16 @@ https://www.linkedin.com/in/dinggaoliu
 ---
 
 ## Education
+**Visiting Ph.D. Student (Joint Training Program)** \
+Faculty of Forestry \
+University of British Columbia, Vancouver, Canada \
+Dece. 2025 – Janu. 2027.
+
+
 **Pursing Ph.D. in Forest Management** \
 College of Forestry \
 Fujian Agriculture and Forestry University, Fuzhou, China \
 Sept. 2023 – present.
-
-**Visiting Ph.D. Student (Joint Training Program)** \
-Faculty of Forestry \
-University of British Columbia, Vancouver, Canada \
-present – Janu. 2027.
 
 
 **M.Sc. in Bioengineering (Bioinformatics direction)** \
