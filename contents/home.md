@@ -35,7 +35,7 @@ https://www.linkedin.com/in/dinggaoliu
 
 ## Education
 **Visiting Ph.D. Student (Joint Training Program)** \
-Faculty of Forestry \
+Faculty of Forestry & Environmental Stewardship \
 University of British Columbia, Vancouver, Canada \
 Dec. 2025 – Jan. 2027.
 
