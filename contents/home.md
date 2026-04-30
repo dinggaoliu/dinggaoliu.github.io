@@ -4,7 +4,7 @@
 ![Last update](https://img.shields.io/github/last-commit/dinggaoliu/dinggaoliu.github.io?label=Last%20update&branch=main)
 
 He's now a visiting Ph.D. student at the Faculty of Forestry & Environmental Stewardship, The University of British Columbia, Vancouver, Canada.
-- He is currently a Ph.D. Candidate in the College of Forestry at Fujian Agriculture and Forestry University, Fuzhou China. \
+- He is currently a Ph.D. Candidate in the College of Forestry at Fujian Agriculture and Forestry University, Fuzhou China. 
 - Supervisor: Prof. Zhenpeng Tang (唐振鹏 教授), College of Economics and Management, Fujian Agriculture and Forestry University
 
 ## Contact
