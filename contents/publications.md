@@ -1,6 +1,6 @@
 ### Published
 
-- **Liu, D.**, Tang, M., & Tang, Z. (2026). Interpretable forecasting of carbon allowance returns using multi-scale trend-aware network with dynamic variable selection and squeeze-excitation. **Applied Energy**, 414, 127810. [[Paper]](https://doi.org/10.1016/j.apenergy.2026.127810)
+- **Liu, D.**, Tang, M., & Tang, Z. (2026). Interpretable forecasting of carbon allowance returns using multi-scale trend-aware network with dynamic variable selection and squeeze-excitation. **Applied Energy**, 414, 127810. [[Paper]](https://doi.org/10.1016/j.apenergy.2026.127810) [[manuscript]](https://github.com/dinggaoliu/MuSTANet/blob/main/AE_manuscript_R3_original.pdf)
 
 - **Liu, D.**, Chen, K., Cai, Y., & Tang, Z. (2024). Interpretable EU ETS Phase 4 prices forecasting based on deep generative data augmentation approach. **Finance Research Letters**, 61, 105038. [[Paper]](https://doi.org/10.1016/j.frl.2024.105038)
   
