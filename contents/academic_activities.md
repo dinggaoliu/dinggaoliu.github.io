@@ -5,7 +5,9 @@
 ---
 
 ## Speaker for International Conferences
-- ***The 45th International Symposium on Forecasting (ISF) 2025, Beijing, China*** \
+- ***The 46th International Symposium on Forecasting (ISF 2026) Montreal, Canada*** \
+  (Report in parallel sessions, Financial Forecasting)
+- ***The 45th International Symposium on Forecasting (ISF 2025), Beijing, China*** \
   (Report in parallel sessions, MacroFor: Health and Environment)
 - ***International Association for Applied Econometrics (IAAE) 2024 Annual Conference, Xiamen, China*** \
   (Report in parallel sessions, Forecasting II)
